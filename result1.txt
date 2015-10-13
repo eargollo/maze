@@ -1,0 +1,12 @@
+10
+0 0 0 0 # UP
+0 0 1 0 # WAIT
+0 0 1 1 # BACK
+0 1 1 1 # DOWN
+0 1 0 1 # WAIT
+0 1 0 2 # FRONT
+0 0 0 2 # RIGHT
+1 0 0 2 # WAIT
+1 0 0 3 # UP
+1 0 1 3
+
