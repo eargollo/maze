@@ -1,5 +1,3 @@
-# 30 min at 3/3 17:00
-# 4/3 11:50 13:50
 
 class Coordinate
   attr_writer :x, :y, :z, :t
